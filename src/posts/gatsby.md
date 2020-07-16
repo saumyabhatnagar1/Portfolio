@@ -1,8 +1,9 @@
 ---
-title:"The Great Gatsby"
-date:"20/07/2020"
+date: "2019-05-04"
+title: "Gatsby"
 ---
-I Just launched a new bootcamp
+
+in this post we will talk about gatsby
 
 ## Topics Covered
 1. Gatsby

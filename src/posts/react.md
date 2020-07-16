@@ -1,5 +1,6 @@
 ---
-title:"React"
-date:"20/06/2020
+date: "2019-05-04"
+title: "React Native"
 ---
-In this post i will tell u about react
+
+in thispost we wil talk about react
